@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 2,
+    "articles": [
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+            "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+            "publishedAt": "2020-04-27T11:41:47Z",
+            "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+            "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+            "publishedAt": "2020-03-30T15:26:05Z",
+            "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+        },
+        {
+            "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Republicans slam Fox News' Tucker Carlson over Capitol riot clips",
+            "description": "The Senate Republican leader says it was a \"mistake\" for Fox News to air footage playing down the riot.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-64883668",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9AF4/production/_128886693_shaman_getty.jpg",
+            "publishedAt": "2023-03-08T22:52:25.1220508Z",
+            "content": "Senate Republicans and Capitol police have criticised Fox News after one of its hosts aired previously unseen clips of the riot two years ago at Congress, and played down the violent disorder.\r\nHost … [+4593 chars]"
+        },
+        {
+            "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "At US border, tech issues plague new migrant applications",
+            "description": "Migrants at the US-Mexico border say the new app often struggles to recognise darker-skinned faces.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-64814095",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/126E3/production/_128819457_cbpone.jpg",
+            "publishedAt": "2023-03-08T22:52:23.856741Z",
+            "content": "Activists at the US-Mexico border say that a government mobile app required for US asylum applications is beset by technical problems, and frequently fails to recognise the faces of black and darker-… [+6683 chars]"
+            }
+    ]
+}
