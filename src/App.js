@@ -13,7 +13,7 @@ export default class App extends Component {
   render() {
     return (
       <div>
-        <Router basename="/news-react">
+        <Router basename="/news-site-react">
         <Navbar/>
         <Routes>
           <Route path="/" element={<News key="General" pageSize={this.pageSize} country="in" category="General"/>}/>
